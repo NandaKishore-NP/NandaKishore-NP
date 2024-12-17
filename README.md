@@ -1,94 +1,99 @@
-<!-- Profile Header -->
+<!-- Header with Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Nandakishore+NP;Full-Stack+Developer;Passionate+about+new+technologies" alt="Typing SVG" />
+</div>
+
+<!-- Profile Avatar and Short Info -->
 <p align="center">
-  <img src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559" alt="Coding" width="400"/>
+  <img src="https://avatars.githubusercontent.com/u/your-profile-ID?v=4" width="150" style="border-radius: 50%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nandakishore NP</h1>
-<h3 align="center">A Passionate FullStack Developer from India</h3>
+<h1 align="center">🚀 Nandakishore NP 🚀</h1>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandakishore-np&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+I'm a Full-Stack Developer skilled in building <b>modern web apps</b> with the latest frameworks like ReactJS, Next.js, and Node.js!
 </p>
 
-<!-- Social Media Links -->
+---
+
+<!-- Tech Stack Section -->
+<h2 align="center">🛠 Tech Stack</h2>
+
+<div align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,redux" alt="Frontend" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend" />
+  <br/>
+  <!-- Tools & Databases -->
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,postgres,mongodb" alt="Tools" />
+</div>
+
+---
+
+<!-- Featured Projects -->
+<h2 align="center">✨ Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔗 Job Matching App</h3>
+      <p align="center">An AI-powered job matching platform that parses resumes and matches them with job descriptions using <b>GPT-4</b>.</p>
+      <p align="center">
+        <a href="https://github.com/your-repo/job-matching-app">
+          <img src="https://img.shields.io/badge/GitHub-View%20Project-green?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📸 Portfolio Website</h3>
+      <p align="center">My personal portfolio built with <b>React, TailwindCSS, and Vercel</b>.</p>
+      <p align="center">
+        <a href="https://your-portfolio-link.com">
+          <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- GitHub Stats and Activity -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nandakishore-np&show_icons=true&theme=tokyonight" height="165" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakishore-np&layout=compact&theme=tokyonight" height="165" />
+</div>
+
+---
+
+<!-- Contributions Section -->
+<h2 align="center">🔥 Recent Contributions</h2>
 <p align="center">
-  <a href="https://codepen.io/nandakishore-np" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
-  </a>
-  <a href="https://stackoverflow.com/users/21963941" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nandakishore-np&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+<!-- Social Links -->
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/nandakishore-np" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/nandak1sh0re" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/nandakishore5190" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://www.leetcode.com/nandakishore5190" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://www.hackerearth.com/@nandakishore5190" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth">
+  <a href="https://leetcode.com/nandakishore5190" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
-<!-- About Me -->
-- 📫 How to reach me: **nandakishore5190@gmail.com**
+---
 
-- ⚡ Fun fact: **I'm a gamer**
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandakishore-np&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakishore-np&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-np&theme=radical" alt="GitHub Streak" />
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  </a>
-  <a href="
-::contentReference[oaicite:0]{index=0}
- 
+<p align="center">🖤 Thank you for visiting my GitHub profile! Let's connect and create something awesome together. 🚀</p>
