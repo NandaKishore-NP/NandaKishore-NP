@@ -1,79 +1,76 @@
-<!-- Fading Name Tag -->
-<div class="flex justify-center items-center py-10">
-  <h1 class="text-5xl font-bold text-gray-800 animate-pulse">Hi, I'm Nandakishore NP</h1>
+<!-- Top Tag: Name Animation -->
+<div style="text-align: center; margin-top: 20px;">
+  <h1 style="font-size: 3rem; font-weight: bold; color: #2e3a59; animation: fadeIn 2s ease-in-out;">Hi, I'm Nandakishore NP</h1>
 </div>
 
 <!-- Introduction Section -->
-<div class="text-center px-6">
-  <h3 class="text-xl font-medium text-gray-700">A passionate FullStack Developer from India</h3>
-  <p class="mt-2 text-lg text-gray-500">Java | Spring Boot | AWS | ReactJS | Cloud Enthusiast</p>
-  
+<div style="text-align: center; padding: 20px;">
+  <h3 style="font-size: 1.5rem; color: #4f5b66;">A passionate FullStack Developer from India</h3>
+  <p style="font-size: 1.2rem; color: #7a8b99; margin-top: 10px;">Java | Spring Boot | AWS | ReactJS | Cloud Enthusiast</p>
+
   <!-- Profile Views -->
-  <div class="mt-4">
+  <div style="margin-top: 20px;">
     <img src="https://komarev.com/ghpvc/?username=nandakishore-np&label=Profile%20views&color=070514&style=plastic" alt="Profile Views" />
   </div>
 </div>
 
 <!-- Stats Section -->
-<div class="mt-10 flex justify-center gap-16 text-center">
-  <div class="space-y-2">
-    <h4 class="text-lg font-semibold text-gray-700">Current Streak</h4>
-    <p class="text-2xl text-gray-800">52 Days</p>
+<div style="margin-top: 40px; display: flex; justify-content: center; gap: 40px; text-align: center;">
+  <div style="text-align: center;">
+    <h4 style="font-size: 1.1rem; color: #4f5b66;">Current Streak</h4>
+    <p style="font-size: 2rem; color: #2e3a59;">52 Days</p>
   </div>
   
-  <div class="space-y-2">
-    <h4 class="text-lg font-semibold text-gray-700">Total Contributions</h4>
-    <p class="text-2xl text-gray-800">1,200 Contributions</p>
+  <div style="text-align: center;">
+    <h4 style="font-size: 1.1rem; color: #4f5b66;">Total Contributions</h4>
+    <p style="font-size: 2rem; color: #2e3a59;">1,200 Contributions</p>
   </div>
 
-  <div class="space-y-2">
-    <h4 class="text-lg font-semibold text-gray-700">World Rank</h4>
-    <p class="text-2xl text-gray-800">Top 3%</p>
+  <div style="text-align: center;">
+    <h4 style="font-size: 1.1rem; color: #4f5b66;">World Rank</h4>
+    <p style="font-size: 2rem; color: #2e3a59;">Top 3%</p>
   </div>
 </div>
 
 <!-- Social Media Links -->
-<div class="mt-12 flex justify-center gap-6">
-  <a href="https://www.linkedin.com/in/nandakishore-np/" target="_blank" class="text-blue-600 hover:text-blue-800">
-    <i class="fab fa-linkedin text-3xl"></i>
+<div style="margin-top: 40px; display: flex; justify-content: center; gap: 30px;">
+  <a href="https://www.linkedin.com/in/nandakishore-np/" target="_blank" style="font-size: 2rem; color: #0077b5;">
+    <i class="fab fa-linkedin"></i>
   </a>
-  <a href="https://github.com/nandakishore-np" target="_blank" class="text-gray-700 hover:text-gray-900">
-    <i class="fab fa-github text-3xl"></i>
+  <a href="https://github.com/nandakishore-np" target="_blank" style="font-size: 2rem; color: #333;">
+    <i class="fab fa-github"></i>
   </a>
-  <a href="https://www.instagram.com/nandak1sh0re/" target="_blank" class="text-pink-500 hover:text-pink-700">
-    <i class="fab fa-instagram text-3xl"></i>
+  <a href="https://www.instagram.com/nandak1sh0re/" target="_blank" style="font-size: 2rem; color: #E4405F;">
+    <i class="fab fa-instagram"></i>
   </a>
 </div>
 
-<!-- Languages & Tools -->
-<div class="mt-16 text-center">
-  <h3 class="text-xl font-medium text-gray-700">Languages & Tools:</h3>
-  <div class="flex justify-center gap-6 mt-6 flex-wrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" class="h-12 w-12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" class="h-12 w-12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" class="h-12 w-12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" class="h-12 w-12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" class="h-12 w-12" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" class="h-12 w-12" />
+<!-- Languages & Tools Section -->
+<div style="margin-top: 50px; text-align: center;">
+  <h3 style="font-size: 1.5rem; color: #4f5b66;">Languages & Tools:</h3>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="height: 50px; width: 50px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" style="height: 50px; width: 50px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" style="height: 50px; width: 50px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" style="height: 50px; width: 50px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="height: 50px; width: 50px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" style="height: 50px; width: 50px;" />
   </div>
 </div>
 
-<!-- GitHub Streak -->
-<div class="mt-12 text-center">
+<!-- GitHub Streak Section -->
+<div style="margin-top: 40px; text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-np&theme=highcontrast" alt="GitHub Streak" />
 </div>
 
-<!-- Tailwind CSS CDN -->
-<script src="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.js"></script>
-
-<!-- Simple Fade-In Animation for the Name -->
+<!-- Fading Name Animation -->
 <style>
   @keyframes fadeIn {
     0% { opacity: 0; }
     100% { opacity: 1; }
   }
 
-  .animate-pulse {
+  h1 {
     animation: fadeIn 2s ease-in-out;
   }
 </style>
