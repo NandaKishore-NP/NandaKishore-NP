@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/nk510">
+  <a href="https://linkedin.com/in/nk5190">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nandakishore5190@gmail.com">
