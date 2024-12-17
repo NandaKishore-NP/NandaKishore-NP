@@ -1,6 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&
+<div align="center">
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&
   height=200&section=header&text=Hello%20World!&fontSize=60&animation=fadeIn&fontAlignY=38&
   desc=I'm%20Nandakishore%20NP%20|%20Fullstack%20Developer%20and%20GenAI&descAlignY=55&descAlign=50" />
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/nk5190">
