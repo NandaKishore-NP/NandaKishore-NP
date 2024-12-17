@@ -1,87 +1,85 @@
-<img align="center" alt="Banner" src="https://readme-templates.com/cdn/banner.gif" />
+<!-- Animated Coding GIF -->
+<img align="right" alt="Coding" width="350" src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559">
 
-<h1 align="center">👋 Hi there, I'm Nandakishore NP</h1>
-<h3 align="center">Full-Stack Developer | Passionate about building impactful solutions 🚀</h3>
+# 👋 Hi there, I'm **Nandakishore NP**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nandakishore-np&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+## 🚀 **Full-Stack Developer | Cloud Enthusiast**
+I'm a passionate developer from **India** who enjoys crafting **modern web applications** and working with **cloud solutions**.  
+My skills range from **backend development** to interactive **front-end experiences**.  
+
+---
+
+### ✨ **About Me**
+- 📫 **How to reach me**: **nandakishore5190@gmail.com**
+- 🎮 **Fun Fact**: I'm a gamer in my free time!
+- 🌱 **Currently Learning**: AWS Cloud, Docker, and React.js  
+- 💼 **Looking for Opportunities**: Open to contributing to **innovative projects**  
+
+---
+
+### 📱 **Let's Connect**  
+Feel free to reach out and connect with me:  
+<p align="left">
+<a href="mailto:nandakishore5190@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.linkedin.com/in/nandakishore-np" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://instagram.com/nandak1sh0re" target="_blank"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+<a href="https://stackoverflow.com/users/21963941" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-333333?style=for-the-badge&logo=stackoverflow&logoColor=F48024" /></a>
+<a href="https://leetcode.com/nandakishore5190" target="_blank"><img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://www.hackerrank.com/nandakishore5190" target="_blank"><img src="https://img.shields.io/badge/HackerRank-333333?style=for-the-badge&logo=hackerrank&logoColor=2EC866" /></a>
 </p>
 
 ---
 
-### 💡 About Me
-
-- 🔭 **Currently working on:** Full-stack development projects using **Java**, **React**, and **Spring Boot**.
-- 🌱 **Learning:** Exploring **AI**, **Cloud Technologies (AWS)**, and **Microservices**.
-- 📫 **Contact me:** [nandakishore5190@gmail.com](mailto:nandakishore5190@gmail.com)
-- ⚡ **Fun Fact:** Gamer by passion, coder by profession 🎮.
+### 💻 **Tech Stack**
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=E76F00)
+![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=csharp&logoColor=239120)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)  
+**Frameworks & Tools:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=springboot&logoColor=6DB33F)
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=FCC624)
 
 ---
 
-### 🌐 Connect With Me:
+### 📊 **GitHub Stats**
 <p align="center">
-  <a href="https://codepen.io/nandakishore-np" target="blank">
-    <img src="https://img.shields.io/badge/CodePen-%23131417.svg?logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
-  <a href="https://stackoverflow.com/users/21963941" target="blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-%23f48024.svg?logo=stackoverflow&logoColor=white" alt="StackOverflow" />
-  </a>
-  <a href="https://instagram.com/nandak1sh0re" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/@nandakishore5190" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.leetcode.com/nandakishore5190" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerearth.com/@nandakishore5190" target="blank">
-    <img src="https://img.shields.io/badge/HackerEarth-%2313468E.svg?logo=hackerearth&logoColor=white" alt="HackerEarth" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandaKishore-NP&theme=dark&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NandaKishore-NP&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,react,nodejs,mysql,aws,docker,linux,postman,git" />
-</p>
+### 🚀 **Projects and Contributions**
+- **[Project 1: Automated Resume Parser](#)**: Built using **Spring Boot**, **ReactJS**, and integrated **AWS services**.
+- **[Project 2: Portfolio Website](#)**: Designed and deployed using **React**, **Docker**, and **AWS S3**.
+- **[Project 3: Cloud Monitoring Tool](#)**: Integrated **AWS CloudWatch** and customized notifications.
 
 ---
 
-### 🚀 GitHub Stats:
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=nandakishore-np&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-np&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandakishore-np&theme=onedark" />
-</p>
-
----
-
-### 📊 Contribution Activity:
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nandakishore-np&theme=github" alt="Contribution Graph" />
-</p>
-
----
-
-### 🖥️ Latest Projects:
-- **Resume Parsing and Job Matching**: Integrated LLM and AWS S3/DynamoDB to automate recruitment workflows.
-- **Full-Stack Applications**: Designed and deployed scalable APIs and ReactJS-based dashboards.
-
----
-
-### 🎯 Goal:
-Building scalable, intelligent, and high-quality software solutions while contributing to open-source projects and community growth.
+### 🎯 **Fun Facts**
+- 🎮 **Gaming Enthusiast** | I love exploring open-world RPGs.
+- 🌟 **Favorite Quote**: *"Code is like humor. When you have to explain it, it’s bad."*  
+- 📚 **Learning new tech every day!**
 
 ---
 
 <p align="center">
-  <img src="https://readme-templates.com/cdn/footer.svg" alt="Footer Graphic" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NandaKishore-NP&theme=onestar&no-frame=true&row=1" alt="trophies" />
 </p>
+
+---
+
+### 🌟 **Thank You for Visiting!**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NandaKishore-NP&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
