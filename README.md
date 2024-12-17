@@ -1,39 +1,73 @@
-![Header Image](https://your-image-url.gif)
+<div align="center">
+  <!-- Replace with a custom animated banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello+World!+I'm+Nandakishore;Full+Stack+Developer;Code+Craftsman" alt="Typing SVG" />
+</div>
 
-# Hi 👋, I'm Nandakishore NP
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=nandakishore-np&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
+</div>
 
-## A passionate FullStack Developer from India
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=nandakishore-np&label=Profile%20views&color=070514&style=plastic)
+### 🚀 Quick Facts
 
-- 📫 How to reach me: **nandakishore5190@gmail.com**
-- ⚡ Fun fact: **I'm a gamer**
+- 🔭 Currently crafting awesome web experiences
+- 🌱 Always learning, always growing
+- 🎮 Gamer by night, coder by day
+- 📫 Reach me: **nandakishore5190@gmail.com**
 
-## Connect with me:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nandakishore-np&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandakishore-np)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nandakishore_np)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nandakishore_np)
+### 🛠️ Tech Arsenal
 
-## Skills and Tools:
+<div align="center">
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,tailwind" />
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,docker" />
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+  
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+### 📊 Coding Metrics
 
-## GitHub Stats:
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-np&theme=react&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakishore-np&theme=react&hide_border=true&layout=compact" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-np&theme=highcontrast)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandakishore-np&show_icons=true&theme=highcontrast)
+### 🌟 Recent Activity Graph
 
-## Personal Interests:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandakishore-np&theme=react-dark&hide_border=true" />
+</div>
 
-- 🎮 Gaming
-- 📚 Reading
-- 🎵 Music
+### 🤝 Connect With Me
 
-## Profile Views:
+<div align="center">
+  <a href="https://www.linkedin.com/in/nandakishore-np">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/nandakishore_np">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nandakishore_np">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nandakishore-np&label=Profile%20views&color=070514&style=plastic)
+<!-- Add a dynamic snake animation of your contributions -->
+<div align="center">
+  <img src="https://github.com/nandakishore-np/nandakishore-np/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<!-- Add profile views counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandakishore-np&style=for-the-badge&color=0891b2" />
+</div>
