@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Hello%20World!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=I'm%20Nandakishore%20NP%20|%20Frontend%20Developer&descAlignY=55&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Hello%20World!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=I'm%20Nandakishore%20NP%20|%20Fullstack%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎨 Frontend Developer passionate about creating beautiful user experiences
+- 🎨 FullStack Developer passionate about developing crazy applications.
 - 🌱 Currently exploring advanced React patterns and animations
 - 💡 Love turning complex problems into simple, beautiful solutions
 - 🎮 When not coding, you'll find me gaming or exploring new tech
@@ -48,16 +48,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nandakishore-np&show_icons=true&theme=aura&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nandakishore-np&theme=aura&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandakishore-np&layout=compact&theme=aura&hide_border=true" />
-</div>
 
 ## 🎯 Current Projects
 
@@ -65,5 +55,3 @@
 - 📱 Creating reusable React components
 - 🎨 Designing user interfaces
 - 📖 Writing technical blog posts
-
-## ⭐ Fun Facts
